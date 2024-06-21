@@ -1,0 +1,30 @@
+.model-selector {
+    padding: 10px;
+  }
+  
+  .model-selector h3 {
+    margin-top: 0;
+  }
+  
+  .model-selector ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .model-selector ul li {
+    margin: 5px 0;
+  }
+  
+  .model-selector button {
+    margin: 5px 0;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .model-selector button:hover {
+    background-color: #0056b3;
+  }
+  
